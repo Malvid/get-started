@@ -23,4 +23,4 @@ node_modules
 # Generated files that usually don't belong to the git
 # index.html
 # index.html.json
-# src/button/button.html
+# src/**/*.html
